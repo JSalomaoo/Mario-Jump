@@ -1,2 +1,2 @@
 # Mario-Jump
-Game Mario-Jump em desenvolvimento ainda...
+mario jump game script using JS, CSS and HTML is still under development
